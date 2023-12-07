@@ -26,21 +26,6 @@
 <strong>🎉 Open Source Enthusiast</strong> ➤ <em>Helping Grow Open Source Communities And Sharing Tech</em>
 
 
-<strong>👾 Game Hacking Hobbyist</strong> ➤ <em>Rev.engineering & Decompiling game | Automating what i can</em>
+<strong>👾 Game Hacking Hobbyist</strong> ➤ <em>Rev.engineering & Decompiling games | Automating what i can</em>
 
 ----
-
-<a href="https://twitter.com">
-  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://linkedin.com">
-  <img align="left" alt="My LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://tumblr.com/">
-  <img align="left" alt="My Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
-</a>
-<a href="https://behance.net">
-  <img align="left" alt="My Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
-</a>
-
-| &nbsp;&nbsp;&nbsp; Website & Gallery :  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
