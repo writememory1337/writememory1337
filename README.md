@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="lll.gif" width="600" height="350" alt="lll">
-</p>
-<p align="center">
   <img src="burning.gif" width="200" height="110" alt="burning">
 </p>
+<p align="center">
+  <img src="lll.gif" width="600" height="350" alt="lll">
+</p>
+
 
 ### writememory1337  &nbsp;&nbsp;<sup>🐧 &#12299; Linux & Open Source Enthusiast |.NET Dev</sup>
 .NET Dev | Linux & Open Source Enthusiast | Automating all i can
